@@ -1,4 +1,0 @@
-APPEND
-
-INCLUDE cutscenes/credits_alpha_demo.txt
-
